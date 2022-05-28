@@ -1,0 +1,29 @@
+{"name":"Brise Token List",
+  "timestamp":"2022-03-01T08:22:42.675Z",
+  "version":{
+    "major":1
+    ,"minor":0,
+    "patch":55
+  },
+    "tags":{},"logoURI":"ipfs://QmQfq8HaAUBkomKFTeqkwedHyvCnsVMQDNwCc1e9cRQvop",
+    "keywords":["uniswap","default"],
+    "tokens":[
+      {"name":"Wrapped Brise","address":"0x0eb9036cbE0f052386f36170c6b07eF0a0E3f710","symbol":"WBRISE","decimals":18,"chainId":32520,"logoURI":"https://thesphynx.co/images/tokens/32520/0x0eb9036cbe0f052386f36170c6b07ef0a0e3f710.png"},
+      {"name":"Sphynx BRISE","symbol":"SPHYNX","address":"0xEEa9Fe24FFBc4F338d90695Be5bf9c0964b93e7E","chainId":32520,"decimals":18,"logoURI":"https://thesphynx.co/static/media/sphynxToken.7317e747.png"},
+      {"name":"OmniaVerse","symbol":"OMNIA","address":"0x5d4685c2C75581C67b9D6292A065a767bC214681","chainId":32520,"decimals":8,"logoURI":"https://omniaverse.io/img/logo/omniaverse.png"},
+      {"name":"BitsXT","symbol":"BTXT","address":"0x1A8a039007186d7640C1D7Cd7c2606e333D04e03","chainId":32520,"decimals":18,"logoURI":"https://www.bitsxt.com/logo.png"},
+      {"name":"Brise Paradise","symbol":"PRDS","address":"0x31226B28add9062c5064a9Bd35eA155F323C6ca6","chainId":32520,"decimals":9,"logoURI":"https://briseparadise.com/wp-content/uploads/2022/03/cropped-logo.png.webp"},
+      {"name":"Evo.Finance","symbol":"EVO","address":"0x267ae4ba9ce5ef3c87629812596b0d89ecbd81dd","chainId":32520,"decimals":18,"logoURI":"https://evofinance.in/wp-content/uploads/2022/03/EvoFinance.png"},
+      {"name":"Young Parrot","symbol":"YPC","address":"0x11203a00a9134Db8586381C4B2fca0816476b3FD","chainId":32520,"decimals":18,"logoURI":"https://youngparrotnft.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo100.611fd018.png&w=64&q=100"},
+      {"name":"Grapen","symbol":"ELTG","address":"0xb860eCD8400600c13342a751408737235E177077","chainId":32520,"decimals":9,"logoURI":"https://www.eltgraphen.com/images/graphenlogowhite.png"},
+      {"name":"Numitor","symbol":"NUMI","address":"0x6718e47e74497d1564EE76d832309144b83Ef8E8","chainId":32520,"decimals":18,"logoURI":"https://thesphynx.co/images/tokens/32520/0x6718e47e74497d1564ee76d832309144b83ef8e8.png"},
+      {"name":"Miidas NFT","symbol":"Miidas","address":"0x5B534A2Df329195Fd7e5c9AcA1D9ffbdA14A4963","chainId":32520,"decimals":6,"logoURI":"https://page.miidas.com/logo_miidas_round.png"},
+      {"name":"BriseZila","symbol":"BRZILLA","address":"0x9b8535Dd9281e48484725bC9Eb6Ed2f66CEA2a36","chainId":32520,"decimals":18,"logoURI":"https://thesphynx.co/images/tokens/32520/0x9b8535dd9281e48484725bc9eb6ed2f66cea2a36.png"},
+      {"name":"BrisePad","symbol":"BPAD","address":"0x71946a5C9dA7C95ee804a9BE561EC15A3F286A7D","chainId":32520,"decimals":8,"logoURI":"https://thesphynx.co/images/tokens/32520/0x71946a5c9da7c95ee804a9be561ec15a3f286a7d.png"},
+      {"name":"4D Twin Maps","symbol":"MAP","address":"0x6D347fdCb302a5879545E01EceE7A176db23dCDa","chainId":32520,"decimals":2,"logoURI":"https://thesphynx.co/images/tokens/32520/0x6d347fdcb302a5879545e01ecee7a176db23dcda.png"},
+      {"name":"Vefi Ecosystem Token","symbol":"VEF","address":"0xD6447d2fA919811c41a064bDbdaB1E281F8de9B2","chainId":32520,"decimals":18,"logoURI":"https://i.ibb.co/VW6v8mN/255b8b55-25c8-4943-9985-db85dd92405c.png"},
+      {"name":"BROGE","symbol":"BROGE","address":"0x41c5ae56681fb19334ecf7d914919805dae2ec8f","chainId":32520,"decimals":18,"logoURI":"https://thesphynx.co/images/tokens/32520/0x41c5ae56681fb19334ecf7d914919805dae2ec8f.png"},
+      {"name":"YOGO Token","symbol":"YOGO","address":"0xB361D5953e21Cfde5CD62B89FDf40bc21903A6bb","chainId":32520,"decimals":18,"logoURI":"https://thesphynx.co/images/tokens/32520/0xb361d5953e21cfde5cd62b89fdf40bc21903a6bb.png"},
+      {"name":"Shiba Rise","symbol":"SHIBA","address":"0xaa8b4b5b8e0fb255defcd735f4601b95f651ee7b","chainId":32520,"decimals":9,"logoURI":"https://thesphynx.co/images/tokens/32520/0xaa8b4b5b8e0fb255defcd735f4601b95f651ee7b.png"}
+      ]
+    }
